@@ -1,7 +1,7 @@
 # ALGORITMO DE DIFFIE-HELLMAN
-# Discente - Paula Santos (201811140027)
+# Discente - Paula Santos 
 
-NumPrimo = 52
+NumPrimo = 11
 NumBase = 4
 
 NumSecrAlice = 8
